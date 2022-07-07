@@ -1,8 +1,12 @@
-# 👋Hi there
 
-![](https://c.tenor.com/dKjJTNB04_UAAAAM/walking-gangster-walking.gif)
 
-I'm a student. i'm interested in web programming
+![](https://c.tenor.com/dKjJTNB04_UAAAAM/walking-gangster-walking.gif =200x){: .center}
+
+Hi👋
+
+I'm a student. 
+
+i'm interested in web programming
 
 
 
