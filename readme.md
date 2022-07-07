@@ -1,6 +1,6 @@
 
 
-![](https://c.tenor.com/dKjJTNB04_UAAAAM/walking-gangster-walking.gif =200x){: .center}
+![](https://c.tenor.com/dKjJTNB04_UAAAAM/walking-gangster-walking.gif){: .center}
 
 Hi👋
 
